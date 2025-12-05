@@ -1,0 +1,8 @@
+{
+  "name": "Food-E",
+  "description": "A social scent and flavor tracking application that visualizes tasting notes as colorful auras.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
